@@ -10,6 +10,7 @@
 			<integer>0</integer>
 		</dict>
 	</dict>
+<<<<<<< HEAD
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>14341E082C01B05600640C76</key>
@@ -18,5 +19,7 @@
 			<true/>
 		</dict>
 	</dict>
+=======
+>>>>>>> fc4211e34b9fbf7b75a3e555f5a7d96d57c0e20c
 </dict>
 </plist>
